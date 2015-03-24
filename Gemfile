@@ -47,7 +47,6 @@ end
 
 group :production do
   gem 'pg'
-  gem 'rails_12factor'
 end
 
 ruby '2.0.0'
@@ -55,3 +54,5 @@ ruby '2.0.0'
 gem 'carrierwave'
 gem 'carrierwave-aws'
 gem 'figaro'
+
+gem 'rails_12factor', group: :production
