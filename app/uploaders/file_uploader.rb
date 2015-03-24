@@ -8,9 +8,9 @@ class FileUploader < CarrierWave::Uploader::Base
 
   # Choose what kind of storage to use for this uploader:
   #storage :file
-  storage :fog
+  #storage :fog
 
-  include CarrierWave::MimeTypes
+  #include CarrierWave::MimeTypes
   #process :set_content_type
 
   # Override the directory where uploaded files will be stored.

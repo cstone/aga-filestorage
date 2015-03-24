@@ -96,8 +96,8 @@
       <file leaf-file-name="file_uploader.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/uploaders/file_uploader.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.21929824" vertical-offset="0" max-vertical-offset="960">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.44152048" vertical-offset="29" max-vertical-offset="960">
+              <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -609,7 +609,13 @@
       <option name="project" value="LOCAL" />
       <updated>1427200154756</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Remove rmagick from uploader">
+      <created>1427200239916</created>
+      <option name="number" value="00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1427200239916</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -683,7 +689,8 @@
     <MESSAGE value="Precompile assets" />
     <MESSAGE value="Update root route" />
     <MESSAGE value="Update carrierwave initializer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update carrierwave initializer" />
+    <MESSAGE value="Remove rmagick from uploader" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove rmagick from uploader" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -860,8 +867,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/uploaders/file_uploader.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21929824" vertical-offset="0" max-vertical-offset="960">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        <state vertical-scroll-proportion="0.44152048" vertical-offset="29" max-vertical-offset="960">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
           <folding />
         </state>
       </provider>
