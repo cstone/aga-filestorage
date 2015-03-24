@@ -54,3 +54,4 @@ ruby '2.0.0'
 
 gem 'carrierwave'
 gem 'carrierwave-aws'
+gem 'figaro'
