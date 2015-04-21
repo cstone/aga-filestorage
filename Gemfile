@@ -56,3 +56,5 @@ gem 'carrierwave-aws'
 gem 'figaro'
 
 gem 'rails_12factor', group: :production
+
+gem 'activeadmin', github: 'activeadmin'

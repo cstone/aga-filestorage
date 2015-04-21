@@ -20,7 +20,7 @@ class FileUploader < CarrierWave::Uploader::Base
   # end
 
   def store_dir
-    "uploads/webapp"
+    "myddw"
   end
 
   def cache_dir
